@@ -91,6 +91,12 @@ What graphical editor will you use? How did you make your decision? What are som
 
 I will be using **Sublime** as my simple text editor, and **PyCharm** as my IDE because I am already quite familiar with both of these (and they're already installed on my computer). I like using PyCharm because of how easy it is to set up virtual environments for my projects, and how compatible it is with Git/GitHub (although I'm still learning this).
 
->> Add info for editor keyboard shortcuts
+Some keyboard shortcut that I often use:
+- Run: ^R
+- Debug Run: ^D
+- Duplicate Lines: cmd+D
+- Reformat Code: opt+cmd+L
 
->> Add info for editor customization
+I customized my editor's color scheme to one which works well for me (I prefer darker background when working).
+
+![`Color Scheme`](editors/PyCharm%20Color%20Scheme.png)
