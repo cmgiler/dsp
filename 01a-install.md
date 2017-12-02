@@ -48,14 +48,25 @@ cross-platform.
 
 Did you install Python 2 or 3? Why?  
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I currently have both installed, but will be using **Python 3.6.1** for the bootcamp, since it is the recommended version. Python 2.7.9 is installed because I am currently using it for personal & work projects.
 
 ### Q2. Which Python Version Installed   
 
 How can you check the version of Python installed if you happen to be on an unfamiliar computer?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I confirmed my version by running the commands ```python``` and ```python3``` at the console.
 
- 
-
-
+```bash
+chrisgiler_developer ~ $ python
+Python 2.7.9 |Anaconda 2.4.0 (x86_64)| (default, Dec 15 2014, 10:37:34) 
+[GCC 4.2.1 (Apple Inc. build 5577)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+Anaconda is brought to you by Continuum Analytics.
+Please check out: http://continuum.io/thanks and https://binstar.org
+>>> quit()
+chrisgiler_developer ~ $ python3
+Python 3.6.1 (v3.6.1:69c0db5050, Mar 21 2017, 01:21:04) 
+[GCC 4.2.1 (Apple Inc. build 5666) (dot 3)] on darwin
+Type "help", "copyright", "credits" or "license" for more information.
+>>> quit()
+```
