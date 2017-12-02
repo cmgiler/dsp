@@ -81,7 +81,7 @@ Upload these 3 files to the [`editors`](editors/) folder.
 
 What terminal editor will be your preferred choice of use? How did you make your decision?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I will be using **vim** as my terminal editor as it seems to be the default editor for most systems and I already have a bit of familiarity with it.
 
 --
 
@@ -89,6 +89,8 @@ What terminal editor will be your preferred choice of use? How did you make your
 
 What graphical editor will you use? How did you make your decision? What are some interesting features of your editor? What are some useful keyboard shortcuts for your editor? How do you customize your editor?
 
->> REPLACE THIS TEXT WITH YOUR RESPONSE
+I will be using **Sublime** as my simple text editor, and **PyCharm** as my IDE because I am already quite familiar with both of these (and they're already installed on my computer). I like using PyCharm because of how easy it is to set up virtual environments for my projects, and how compatible it is with Git/GitHub (although I'm still learning this).
 
- 
+>> Add info for editor keyboard shortcuts
+
+>> Add info for editor customization
