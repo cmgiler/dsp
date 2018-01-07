@@ -37,7 +37,7 @@ print("Percentage of Men Within Range (5'10\" to 6'1\"): %0.2f%%" % ((below_max-
 
 > For Men:
 > 
-> -
+> ---
 > 
 > Mean: 178.0
 > 

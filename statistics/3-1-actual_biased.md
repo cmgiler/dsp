@@ -42,7 +42,7 @@ print("Biased Data: \t%0.4f" % biased_pmf.Mean())
 
 > Means:
 > 
-> -
+> ---
 > 
 > Base Data: 	1.0242
 > 
