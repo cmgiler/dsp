@@ -53,8 +53,10 @@ print('Cohen d for pregnancy length: \t %0.4f' % (d_prglngth))
 ---
 ### Output:
 
->> Cohen d for total weight: 	-0.0887
+> Cohen d for total weight: 	-0.0887
 
->> Cohen d for pregnancy length: 	 0.0289
+> Cohen d for pregnancy length: 	 0.0289
 
 As a general guideline, a **Cohen's d** value less than 0.2 indicates a small effect size. With the value calculated for both total weight and pregnancy length, **d** is much lower than 0.2, so we can infer that the difference is trivial, even if it is found to be statistically significant.
+
+![2-4_Figure.png](2-4_Figure.png)
